@@ -1,0 +1,6 @@
+*.log
+mysql
+#!html/wp-content/**
+html/wp-admin
+html/wp-includes
+html/*.*
